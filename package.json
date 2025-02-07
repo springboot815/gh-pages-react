@@ -2,6 +2,7 @@
   "name": "gh-pages-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://springboot815.github.io/gh-pages-react/",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
